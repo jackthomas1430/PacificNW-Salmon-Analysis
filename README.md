@@ -1,4 +1,4 @@
-# Project-3
+# PacificNW-Salmon-Analysis
 
 ## Analyzing Regional Water Temperature and Salmon Population Spawning Dynamics Across Pacific Northwest Sites.
 
