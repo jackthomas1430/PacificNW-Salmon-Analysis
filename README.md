@@ -34,7 +34,8 @@ https://www.webapps.nwfsc.noaa.gov/apex/f?p=261:40::::RP,40:G_CURRENT_ARCHIVE:53
 - Consideration: Many salmon populations are in regions with Indigenous communities who may rely on these fish for cultural, economic, or subsistence purposes. Environmental decisions influenced by your data could have direct effects on these communities..
 - Ethical Action: Consider the broader social implications of your findings.
 
-Recommendations:
+## Recommendations:
+
 - Clear Communication.
 - Compliance and Sensitivity
 
